@@ -8,7 +8,7 @@ The objective was to determine which tariff —Surf or Ultimate— generates the
 
 # Methodology and Tools
 
-1. Data cleaning and transformation: type conversion, monthly grouping by user, and billing calculation including surpluses.
+1. Data cleaning and transformation: type conversion, monthly grouping by user, and billing calculation, including surpluses.
 2. Descriptive analysis: means, variances, standard deviations, and visualisation with histograms.
 3. Statistical tests:
      * Hypothesis 1: comparison of average income between Surf and Ultimate.
